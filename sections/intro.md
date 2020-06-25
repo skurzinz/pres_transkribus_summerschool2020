@@ -23,8 +23,8 @@ TEI (https://www.tei-c.org/) is desirable
 * Type it (surprisingly fast method)
 * outsource it (double keying service)
 * OCR it
-    - tesseract
-    - your favourite OCR tool (available even for mobile)
+    * tesseract
+    * your favourite OCR tool (available even for mobile)
 * HTR it (e.g. using https://transkribus.eu/)
 
 
