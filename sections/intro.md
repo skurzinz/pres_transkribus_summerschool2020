@@ -34,5 +34,5 @@ TEI (https://www.tei-c.org/) is desirable
 ### Overview
 
 * Show generic Transkribus workflow
-* Examples from the MRP edition project
+* Examples from the MRP edition project https://mrp.oeaw.ac.at/
 * Hands on

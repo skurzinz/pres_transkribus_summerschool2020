@@ -6,6 +6,8 @@
 
 ### Generic Workflow
 
+comparable to [KONDE process diagram](https://drive.google.com/file/d/14ILd5u0L7rliwVbsF5gSu7RIL_Eu8txj/view?usp=sharing)
+
 1. data preparation
 2. image import
 3. layout analysis
