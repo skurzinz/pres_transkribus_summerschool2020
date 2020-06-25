@@ -6,7 +6,7 @@
 
 ### Generic Workflow
 
-comparable to [KONDE process diagram](https://drive.google.com/file/d/14ILd5u0L7rliwVbsF5gSu7RIL_Eu8txj/view?usp=sharing)
+comparable to KONDE process diagram (next slide)
 
 1. data preparation
 2. image import
@@ -14,6 +14,11 @@ comparable to [KONDE process diagram](https://drive.google.com/file/d/14ILd5u0L7
 4. OCR/HTR
 5. [data curation]
 6. [export]
+
++++
+
+![Process Diagram](images/Prozessdiagramm-Digitalisierung-G2.svg)
+
 
 +++
 
