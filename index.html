@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Transkribus session for Summer School 2020</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/simple.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+      <style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
+</style>
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+        <section data-markdown>
+	          <script type="text/template">
+              ## Data capture with Transkribus
+
+							Digital Prosopography Summer School 2020
+
+              https://skurzinz.github.io/Transkribus_2020/
+            </script>
+        </section>
+      <section data-markdown="sections/intro.md"
+      data-separator="^\r?\n---\r?\n$"
+      data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+      data-separator-notes="^Note:">
+      </section>
+      <section data-markdown="sections/transkribus-about.md"
+       data-separator="^\r?\n---\r?\n$"
+       data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+       data-separator-notes="^Note:">
+       </section>
+      <section data-markdown="sections/transkribus-workflow.md"
+       data-separator="^\r?\n---\r?\n$"
+       data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+       data-separator-notes="^Note:">
+    </section>
+    <section data-markdown="sections/transkribus-export.md"
+     data-separator="^\r?\n---\r?\n$"
+     data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+     data-separator-notes="^Note:">
+  </section>
+	<section data-markdown>
+			<script type="text/template">
+				## Demo
+
+				Collection id: 71182
+
+				https://transkribus.eu/r/read/projects/71182/
+			</script>
+	</section>
+	<section data-markdown>
+			<script type="text/template">
+				## Hands-on
+
+				question round?
+
+				¡get started!
+			</script>
+	</section>
+   <section data-markdown>
+         <script type="text/template">
+           # Thx
+
+           stephan.kurz@oeaw.ac.at
+        </script>
+    </section>
+    </div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				hash: true,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+          { src: 'js/highlight.pack.js' },
+    {
+      src: 'plugin/reveal-code-focus/reveal-code-focus.js',
+      async: true,
+      callback: function() {
+        RevealCodeFocus();
+      }
+    }
+				]
+			});
+		</script>
+	</body>
+</html>
