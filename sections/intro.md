@@ -3,9 +3,7 @@
 * most text is somehow pre-structured 
 * make use of these structures 
     - Visual similarity on character|word|page|corpus level 
-    - language
-        - grammar
-	- lexicon
+    - language (grammar / lexicon)
 
 +++
 
