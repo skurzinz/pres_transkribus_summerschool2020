@@ -17,6 +17,8 @@ File format
   - post-processing required
   - customize https://github.com/dariok/page2tei
 
++++
+
 #### API
 
 * https://transkribus.eu/wiki/index.php/REST_Interface
