@@ -1,10 +1,12 @@
-#### Transkribus Workflow
+### Transkribus Workflow
 
 * https://transkribus.eu/wiki/index.php/How_to_Guides
 
 +++
 
-1. Data preparation
+### Generic Workflow
+
+1. data preparation
 2. image import
 3. layout analysis
 4. OCR/HTR
@@ -13,7 +15,7 @@
 
 +++
 
-#### HTR models
+### HTR models
 
 * Preprocessed models for a lot of languages and scripts
 * Ability to build new ones
@@ -22,4 +24,4 @@
 
 +++
 
-#### Demo
+### Demo

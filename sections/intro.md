@@ -1,4 +1,4 @@
-#### Goal
+### Goal
 * Get (mainly textual) data in digital form
 * most text is somehow pre-structured
 * make use of these structures
@@ -7,7 +7,7 @@
 
 +++
 
-#### Expected Output 		
+### Expected Output 		
 structured data for
 
 * mining prosopographical entity data
@@ -19,7 +19,7 @@ TEI (https://www.tei-c.org/) is desirable
 
 +++
 
-#### How to capture data?  
+### How to capture data?  
 * Type it (surprisingly fast method)
 * outsource it (double keying service)
 * OCR it
@@ -31,7 +31,7 @@ TEI (https://www.tei-c.org/) is desirable
 +++
 
 
-#### Overview
+### Overview
 
 * Show generic Transkribus workflow
 * Examples from the MRP edition project

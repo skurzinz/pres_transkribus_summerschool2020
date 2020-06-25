@@ -1,4 +1,4 @@
-#### About Transkribus
+### About Transkribus
 
 * started as a project in 2013
 * based in Innsbruck, Tyrol
@@ -9,7 +9,7 @@ Note: I’m not affiliated
 
 +++
 
-#### Java client
+### Java client
 
 * register (free) and get the client
 * https://transkribus.eu/Transkribus/
@@ -17,7 +17,7 @@ Note: I’m not affiliated
 
 +++
 
-#### Notable Features
+### Notable Features
 
 * Layout recognition
 * Handwritten Text Recognition (HTR) via supervised learning
@@ -30,8 +30,10 @@ Note: I’m not affiliated
 
 +++
 
-#### Caveat
+### Caveats
 
-* Project budget!
-* Transkribus is starting to charge per image for HTR (~ 0.1-0.25 EUR per image)
+* UI / UX
+* learning curve
+* Include costs in project budget!
+* Transkribus is starting to charge per image for HTR (~ 0.1—0.25 EUR per image)
 * Well integrated into DH community in Austria, services are not for free
