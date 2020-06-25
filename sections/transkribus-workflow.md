@@ -17,8 +17,8 @@
 
 * Preprocessed models for a lot of languages and scripts
 * Ability to build new ones
-  - not every user has the right to train models
-  - useful if large numbers of similar data
+    * not every user has the right to train models
+    * useful if large numbers of similar data
 
 +++
 

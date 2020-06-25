@@ -1,4 +1,4 @@
-#### Transkribus Export functions
+### Transkribus Export functions
 
 File format
 
@@ -8,18 +8,18 @@ File format
 
 +++
 
-#### Export file formats
+### Export file formats
 
 * .docx exports tags in MSO index entries (?)
 * PDF with/out text|images
 * TEI export
-  - does not know semantics of page
-  - post-processing required
-  - customize https://github.com/dariok/page2tei
+    * does not know semantics of page
+    * post-processing required
+    * customize https://github.com/dariok/page2tei
 
 +++
 
-#### API
+### API
 
 * https://transkribus.eu/wiki/index.php/REST_Interface
 * https://github.com/Transkribus/TranskribusPyClient

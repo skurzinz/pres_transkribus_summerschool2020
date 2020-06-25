@@ -5,7 +5,7 @@
 * large specialised user group (29k users)
 * Non-profit European Cooperative Society (European Raiffeisen model) since 2019
 
-Note: I'm not affiliated
+Note: I’m not affiliated
 
 +++
 
@@ -22,8 +22,8 @@ Note: I'm not affiliated
 * Layout recognition
 * Handwritten Text Recognition (HTR) via supervised learning
 * Community features
-  - sharing HTR models
-  - sharing image and transcription data
+    * sharing HTR models
+    * sharing image and transcription data
 * Discovery tools such as Keyword Spotting (KWS)
 * Export and API capabilities
 * Integration with [ScanTent](https://readcoop.eu/scantent/) and Android [DocScan](https://play.google.com/store/apps/details?id=at.ac.tuwien.caa.docscan) app
